@@ -1,4 +1,4 @@
-/*nput: arr[] = [12, 35, 1, 10, 34, 1]
+/*input: arr[] = [12, 35, 1, 10, 34, 1]
 Output: 34
 Explanation: The largest element of the array is 35 and the second largest element is 34
 */
