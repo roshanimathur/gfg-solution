@@ -1,9 +1,9 @@
-nput: arr[] = [2, 2, 2, 2, 2]
+/*input: arr[] = [2, 2, 2, 2, 2]
 Output: [2]
 Explanation: After removing all the duplicates only one instance of 2 will remain i.e. [2] so
 modified array will contains 2 at first position and you should return array containing [2]
 after modifying the array.
-
+*/
 
 class Solution {
   public:
