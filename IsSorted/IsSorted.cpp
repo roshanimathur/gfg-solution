@@ -1,10 +1,10 @@
-Input: arr[] = [10, 20, 30, 40, 50]
+/*Input: arr[] = [10, 20, 30, 40, 50]
 Output: true
 Explanation: The given array is sorted.
 Input: arr[] = [90, 80, 100, 70, 40, 30]
 Output: false
 Explanation: The given array is not sorted.
-
+*/
 
 class Solution {
   public:
